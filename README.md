@@ -2,7 +2,7 @@
 
 I'm a Master of Data Science student at UC Irvine, interested in healthcare AI and multi-agent systems.
 
-🌐 [Visit my portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
+🌐 [Visit my portfolio]([https://portfolio-web-ten-opal-71.vercel.app/](https://portfolio-web-ten-opal-71.vercel.app/))
 
 ---
 
