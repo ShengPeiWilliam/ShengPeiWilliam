@@ -1,6 +1,7 @@
 # Hi, I'm William
 
-I'm a Master of Data Science student at UC Irvine, interested in healthcare AI, multi-agent systems, and RAG-based applications.
+I'm a Master of Data Science student at UC Irvine, interested in data analytics, healthcare AI, multi-agent systems, and RAG-based applications.
+
 
 🌐 [Visit my portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
 
