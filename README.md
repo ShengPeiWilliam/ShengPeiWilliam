@@ -1,13 +1,13 @@
 # Hi, I'm William
 
-I'm a Master of Data Science student at UC Irvine, interested in healthcare AI and multi-agent systems.
+I'm a Master of Data Science student at UC Irvine, interested in healthcare AI, multi-agent systems, and RAG-based applications.
 
 🌐 [Visit my portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
 
 ---
 
 ### 🔭 Currently working on
-- **[Frictionless Medical](https://github.com/ShengPeiWilliam)** — Autonomous multi-agent system for home wound assessment.
+- **[AskUCI](https://github.com/ShengPeiWilliam/askuci)** — RAG-powered chatbot that recommends UCI ML Repository datasets from natural language queries.
 
 ### 🛠️ Past projects
 - **[PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator)** — Turns git commits into professional PR descriptions.
