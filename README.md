@@ -15,6 +15,8 @@ I'm a Master of Data Science student at UC Irvine, interested in data analytics,
 - **[SkillCraft ML](https://github.com/ShengPeiWilliam/skillcraft-ml)** — Multinomial classification of StarCraft II player skill levels with class imbalance strategies.
 - **[Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml)** — End-to-end churn prediction with distribution shift analysis and model comparison.
 - **[Bike Rental ML](https://github.com/ShengPeiWilliam/bikerental-ml)** — Demand forecasting for bike rentals using OLS, Ridge, and Lasso regression with diagnostic analysis.
+- **[Bike Rental Poisson](https://github.com/ShengPeiWilliam/bikerental-poisson)** — Daily bike rental demand forecasting using Poisson and Negative Binomial (NB2) regression with overdispersion diagnostics and rolling-origin cross-validation.
+
 
 ### 💼 Experience
 - Built multi-agent systems at **SHINSOFT** using Microsoft's **AutoGen** framework.
