@@ -1,22 +1,26 @@
 # Hi, I'm William
 
-I'm a Master of Data Science student at UC Irvine, interested in data analytics, healthcare AI, multi-agent systems, and RAG-based applications.
+Master of Data Science @ UC Irvine — interested in data analytics, healthcare AI, multi-agent systems, and RAG applications.
 
-
-🌐 [Visit my portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
+🌐 [Portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
 
 ---
 
-### 🔭 Currently working on
-- **[AskUCI](https://github.com/ShengPeiWilliam/askuci)** — RAG-powered chatbot that recommends UCI ML Repository datasets from natural language queries.
+### 🛠️ Projects
 
-### 🛠️ Past projects
-- **[PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator)** — Turns git commits into professional PR descriptions.
-- **[SkillCraft ML](https://github.com/ShengPeiWilliam/skillcraft-ml)** — Multinomial classification of StarCraft II player skill levels with class imbalance strategies.
-- **[Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml)** — End-to-end churn prediction with distribution shift analysis and model comparison.
-- **[Bike Rental OLS](https://github.com/ShengPeiWilliam/bikerental-ml)** — Demand forecasting for bike rentals using OLS, Ridge, and Lasso regression with diagnostic analysis.
-- **[Bike Rental Poisson](https://github.com/ShengPeiWilliam/bikerental-poisson)** — Bike rental count regression with Poisson and NB2, overdispersion diagnostics, and rolling-origin CV.
+**RAG**
+- [AskUCI](https://github.com/ShengPeiWilliam/askuci) — RAG chatbot for UCI ML Repository dataset recommendations.
 
+**Machine Learning**
+- [SkillCraft ML](https://github.com/ShengPeiWilliam/skillcraft-ml) — StarCraft II player skill classification with class imbalance strategies.
+- [Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
+
+**Statistics**
+- [Bike Rental Poisson](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
+- [Bike Rental OLS](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
+
+**Dev Tools**
+- [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — Turns git commits into professional PR descriptions.
 
 ### 💼 Experience
 - Built multi-agent systems at **SHINSOFT** using Microsoft's **AutoGen** framework.
