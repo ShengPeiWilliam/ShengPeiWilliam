@@ -1,8 +1,10 @@
 # Hi, I'm William
 
-Master of Data Science @ UC Irvine — interested in data analytics, healthcare AI, multi-agent systems, and RAG applications.
+Master of Data Science @ UC Irvine | Data Analytics · Healthcare AI · Multi-Agent Systems · RAG
 
-🌐 [Portfolio](https://portfolio-web-ten-opal-71.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-ten-opal-71.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shengpeichen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShengPeiWilliam)
 
 ---
 
