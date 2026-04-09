@@ -14,6 +14,7 @@ Master of Data Science at UC Irvine | Data Analytics · Healthcare AI · Multi-A
 - [AskUCI](https://github.com/ShengPeiWilliam/askuci) — RAG chatbot for UCI ML Repository dataset recommendations.
 
 **Machine Learning**
+- [MovieRec Two-Towers](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-Tower retrieval model for movie recommendations with systematic embedding tuning.
 - [SkillCraft ML](https://github.com/ShengPeiWilliam/skillcraft-ml) — StarCraft II player skill classification with class imbalance strategies.
 - [Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
 
