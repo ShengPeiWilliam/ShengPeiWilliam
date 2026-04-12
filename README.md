@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-Master of Data Science at UC Irvine | Data Scientist · Healthcare AI · Multi-Agent Systems · RAG
+Master of Data Science student at UC Irvine. I build end-to-end data science projects in Python and R, spanning statistical modeling, machine learning, and forecasting, with a focus on translating results into actionable business decisions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shengpeichen)
