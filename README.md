@@ -19,6 +19,7 @@ Master of Data Science student at UC Irvine. I build end-to-end data science pro
 - [Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
 
 **Statistics**
+- [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Frequentist and Bayesian A/B testing with retention and engagement analysis.
 - [Bike Rental Poisson](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
 - [Bike Rental OLS](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
 
