@@ -10,18 +10,18 @@ Master of Data Science student at UC Irvine. I build end-to-end data science pro
 
 ### 🛠️ Projects
 
-**RAG**
-- [AskUCI](https://github.com/ShengPeiWilliam/askuci) — RAG chatbot for UCI ML Repository dataset recommendations.
-
-**Machine Learning**
-- [MovieRec Two-Towers](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-Tower retrieval model for movie recommendations with systematic embedding tuning.
-- [SkillCraft ML](https://github.com/ShengPeiWilliam/skillcraft-ml) — StarCraft II player skill classification with class imbalance strategies.
-- [Telecom Churn ML](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
-
 **Statistics**
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Frequentist and Bayesian A/B testing with retention and engagement analysis.
-- [Bike Rental Poisson](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
-- [Bike Rental OLS](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
+- [Bike Sharing Demand Forecasting (Poisson)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
+- [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
+
+**Machine Learning**
+- [Two-Tower Retrieval for Recommendation](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-Tower retrieval model for movie recommendations with systematic embedding tuning.
+- [Multi-Class Skill Classification in StarCraft II](https://github.com/ShengPeiWilliam/skillcraft-ml) — StarCraft II player skill classification with class imbalance strategies.
+- [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
+
+**RAG**
+- [UCI Dataset Assistant (RAG)](https://github.com/ShengPeiWilliam/askuci) — RAG chatbot for UCI ML Repository dataset recommendations.
 
 **Dev Tools**
 - [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — Turns git commits into professional PR descriptions.
