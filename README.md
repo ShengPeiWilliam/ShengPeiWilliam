@@ -3,6 +3,7 @@
 Master of Data Science student at UC Irvine. I build end-to-end data science projects in Python and R, spanning statistical modeling, machine learning, A/B testing, and forecasting, with a focus on translating results into actionable business decisions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10UaE2XE6yY1jloQGu473lAqCSsWG7hSe/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shengpeichen)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShengPeiWilliam)
 
