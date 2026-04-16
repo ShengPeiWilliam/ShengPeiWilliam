@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-Master of Data Science student at UC Irvine. I build end-to-end data science projects in Python and R, spanning statistical modeling, machine learning, A/B testing, and forecasting, with a focus on translating results into actionable business decisions.
+Master of Data Science student at UC Irvine. I move across the stack, from statistical modeling, A/B testing, and machine learning to LLM applications, building in Python and R with a focus on turning analysis into decisions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1t1dysXPkNCK5LYRWbQM7kq6CK45TuGw1/view?usp=sharing)
