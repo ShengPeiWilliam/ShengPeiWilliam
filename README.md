@@ -28,4 +28,6 @@ Master of Data Science student at UC Irvine. I move across the stack, from stati
 - [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — Turns git commits into professional PR descriptions.
 
 ### 💼 Experience
-- Built multi-agent systems at **SHINSOFT** using Microsoft's **AutoGen** framework.
+- Expanded underrepresented scene data using GAN-based augmentation to reduce false positives in scene classification, improving precision by 5%.
+- Applied PCA and t-SNE to diagnose cross-scene performance gaps in a single general model; grouped scenes by distribution and fine-tuned per group, improving accuracy by 15%.
+- Designed an AI agent pipeline using Microsoft AutoGen to automate end-to-end data processing and model training, replacing manual handoffs with a single-trigger workflow.
