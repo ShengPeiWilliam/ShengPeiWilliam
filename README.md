@@ -3,7 +3,7 @@
 Master of Data Science student at UC Irvine. I move across the stack, from statistical modeling, A/B testing, and machine learning to LLM applications, building in Python and R with a focus on turning analysis into decisions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1t1dysXPkNCK5LYRWbQM7kq6CK45TuGw1/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jKpY3XV30ss3vgrJFrjJUoF7Gf3pfmzZ/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shengpeichen)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShengPeiWilliam)
 
