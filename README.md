@@ -29,5 +29,5 @@ Master of Data Science student at UC Irvine. I move across the stack, from stati
 
 ### 💼 Experience
 - Expanded underrepresented scene data using GAN-based augmentation to reduce false positives in scene classification, improving precision by 5%.
-- Applied PCA and t-SNE to diagnose cross-scene performance gaps in a single general model; grouped scenes by distribution and fine-tuned per group, improving accuracy by 15%.
-- Designed an AI agent pipeline using Microsoft AutoGen to automate end-to-end data processing and model training, replacing manual handoffs with a single-trigger workflow.
+- Applied PCA and t-SNE to visualize scene distribution gaps, revealing that a single general model struggled across different scene types; grouped scenes by distribution and fine-tuned per group, improving accuracy by 15%.
+- Designed an AI agent pipeline using Microsoft AutoGen to automate end-to-end data processing and model training, replacing manual intervention between steps with a single-trigger workflow.
