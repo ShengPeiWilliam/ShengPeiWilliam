@@ -14,6 +14,7 @@ I move across the stack, from statistical modeling, A/B testing, and machine lea
 ### 🛠️ Projects
 
 **Statistics**
+- [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Frequentist and Bayesian A/B testing with subgroup analysis across days and hours.
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Frequentist and Bayesian A/B testing with retention and engagement analysis.
 - [Bike Sharing Demand Forecasting (Poisson)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
 - [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
