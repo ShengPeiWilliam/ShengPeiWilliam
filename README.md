@@ -1,8 +1,8 @@
 # Hi, I'm William
 
-Master of Data Science student at UC Irvine (graduating Fall 2026), actively seeking data science internships.
+Master of Data Science student at UC Irvine (graduating December 2026), actively seeking summer 2026 data science internships.
 
-I move across the stack, from statistical modeling, A/B testing, and machine learning to LLM applications, building in Python and R with a focus on turning analysis into decisions.
+I focus on **statistical modeling, A/B testing, and GLM-based inference**, working in Python and R to turn model coefficients into decisions someone can act on.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iUd6OSAd68ObheyuPpNxFH-ALbFPiAqZ/view?usp=sharing)
@@ -13,24 +13,28 @@ I move across the stack, from statistical modeling, A/B testing, and machine lea
 
 ### 🛠️ Projects
 
-**Statistics**
-- [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Frequentist and Bayesian A/B testing with subgroup analysis across days and hours.
-- [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Frequentist and Bayesian A/B testing with retention and engagement analysis.
-- [Bike Sharing Demand Forecasting (Poisson)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression with Poisson/NB2 and overdispersion diagnostics.
-- [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Demand forecasting with OLS, Ridge, Lasso and diagnostic analysis.
+**Statistical Modeling & Experimentation**
+- [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
+- [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
+- [Bike Sharing (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
+- [Bike Sharing (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Linear baseline with OLS, Ridge, Lasso under rolling-origin CV and full residual diagnostics.
 
-**Machine Learning**
-- [Two-Tower Retrieval for Recommendation](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-Tower retrieval model for movie recommendations with systematic embedding tuning.
-- [Multi-Class Skill Classification in StarCraft II](https://github.com/ShengPeiWilliam/skillcraft-ml) — StarCraft II player skill classification with class imbalance strategies.
-- [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Churn prediction with distribution shift analysis and model comparison.
+**Predictive Modeling**
+- [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Telecom churn classifier on 500K+ records, including a train/test distributional inconsistency diagnosis.
+- [StarCraft II Skill Classification](https://github.com/ShengPeiWilliam/skillcraft-ml) — Reformulated a published pairwise task into 6-class multinomial classification, outperforming the baseline in 3 of 4 league pairs.
 
-**RAG**
-- [UCI Dataset Assistant (RAG)](https://github.com/ShengPeiWilliam/askuci) — RAG chatbot for UCI ML Repository dataset recommendations.
+**Recommendation & Retrieval**
+- [Two-Tower Retrieval](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-tower neural retrieval on 100K implicit feedback interactions, indexed in ChromaDB.
+- [UCI Dataset Assistant (RAG)](https://github.com/ShengPeiWilliam/askuci) — Publicly deployed RAG chatbot indexing 689 UCI ML Repository datasets.
 
-**Dev Tools**
-- [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — Turns git commits into professional PR descriptions.
+**Developer Tools**
+- [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — CLI that turns Git commits into structured PR descriptions, built on an agent skill framework.
+
+---
 
 ### 💼 Experience
-- Expanded underrepresented scene data using GAN-based augmentation to reduce false positives in scene classification, improving precision by 5%.
-- Applied PCA and t-SNE to visualize scene distribution gaps, revealing that a single general model struggled across different scene types; grouped scenes by distribution and fine-tuned per group, improving accuracy by 15%.
-- Designed an AI agent pipeline using Microsoft AutoGen to automate end-to-end data processing and model training, replacing manual intervention between steps with a single-trigger workflow.
+
+**Project Engineer (Data Science Focus)** — SHINSOFT CO., LTD. (Aug 2024 – Feb 2025)
+
+- Diagnosed model underperformance on 200K+ camera-captured images by extracting EfficientNet embeddings and applying PCA and t-SNE; identified indoor vs. outdoor distributional gap and fine-tuned a dedicated model on the underperforming indoor segment, lifting accuracy by 15%.
+- Quantified data scarcity in underrepresented scenes as the root cause of false positives; designed a GAN-based augmentation strategy to expand the minority-scene training set, improving precision by 5%.
