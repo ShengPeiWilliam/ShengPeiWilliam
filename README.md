@@ -13,6 +13,9 @@ I focus on **statistical modeling, A/B testing, and GLM-based inference**, worki
 
 ### 🛠️ Projects
 
+**Data Engineering**
+- [Citi Bike AWS Pipeline](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — AWS pipeline ingesting 1M+ trips into S3 and Athena via boto3, with raw CSV to typed Parquet transformation.
+
 **Statistical Modeling & Experimentation**
 - [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
