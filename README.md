@@ -14,7 +14,7 @@ I focus on **statistical modeling, A/B testing, and causal inference**, working 
 ### 🛠️ Projects
 
 **Data Engineering**
-- [Citi Bike AWS Pipeline](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — AWS pipeline ingesting 1M+ trips into S3 and Athena via boto3, with raw CSV to typed Parquet transformation.
+- [Citi Bike AWS Pipeline](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — AWS pipeline integrating NYC Citi Bike trips with Open-Meteo weather on S3 and Athena, structured as raw / processed / analytics layers.
 
 **Statistical Modeling & Experimentation**
 - [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
