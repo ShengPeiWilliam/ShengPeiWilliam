@@ -17,7 +17,7 @@ I focus on **statistical modeling, A/B testing, and causal inference**, working 
 - [Citi Bike AWS Pipeline](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — AWS pipeline integrating NYC Citi Bike trips with Open-Meteo weather on S3 and Athena, structured as raw / processed / analytics layers.
 
 **Statistical Modeling & Experimentation**
-- [Prior Sensitivity in Bayesian Logistic Regression](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Bayesian logistic regression on birthwt comparing diffuse, weak, and informative priors across sample sizes, with LOO diagnostics and an interactive Streamlit demo.
+- [Prior Sensitivity in Bayesian Logistic Regression](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering.
 - [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
 - [Bike Sharing (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
