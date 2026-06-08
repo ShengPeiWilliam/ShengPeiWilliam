@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-Master of Data Science student at UC Irvine (graduating December 2026), actively seeking summer 2026 data science internships.
+Master of Data Science student at UC Irvine (graduating December 2026), actively seeking data science internships and new grad roles (available early 2027)
 
 I focus on **statistical modeling, A/B testing, and causal inference**, working primarily in R and Python. Recent work has expanded into cloud data engineering on AWS, building end-to-end pipelines so my analysis isn't bottlenecked by data availability.  What I care about most is turning analysis into decisions someone can act on.
 
