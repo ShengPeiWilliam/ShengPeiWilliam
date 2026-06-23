@@ -10,7 +10,6 @@ I focus on **statistical modeling, A/B testing, and causal inference**, working 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShengPeiWilliam)
 
 ---
-
 ### 🛠️ Projects
 
 **Statistical Modeling & Experimentation**
@@ -33,10 +32,8 @@ I focus on **statistical modeling, A/B testing, and causal inference**, working 
 - [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — CLI that turns Git commits into structured PR descriptions, built on an agent skill framework.
 
 ---
-
 ### 💼 Experience
 
 **Project Engineer (Data Science Focus)** — SHINSOFT CO., LTD. (Aug 2024 – Feb 2025)
-
 - Diagnosed model underperformance on 200K+ camera-captured images by extracting EfficientNet embeddings and applying PCA and t-SNE; identified indoor vs. outdoor distributional gap and fine-tuned a dedicated model on the underperforming indoor segment, lifting accuracy by 15%.
 - Quantified data scarcity in underrepresented scenes as the root cause of false positives; designed a GAN-based augmentation strategy to expand the minority-scene training set, improving precision by 5%.
