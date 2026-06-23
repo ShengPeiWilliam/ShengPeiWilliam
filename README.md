@@ -13,15 +13,13 @@ I focus on **statistical modeling, A/B testing, and causal inference**, working 
 
 ### 🛠️ Projects
 
-**Data Engineering**
-- [Citi Bike AWS Pipeline](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — AWS pipeline integrating NYC Citi Bike trips with Open-Meteo weather on S3 and Athena, structured as raw / processed / analytics layers.
-
 **Statistical Modeling & Experimentation**
-- [Bayesian Prior Sensitivity](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering.
+- [Bike Sharing Demand Forecasting (BSTS)](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — Bayesian structural time series quantifying how member and casual riders respond differently to weather, built on a self-constructed AWS data pipeline.
+- [Bayesian Prior Sensitivity](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering. Deployed as an interactive Streamlit app on AWS EC2 with a Plumber API backend.
 - [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
-- [Bike Sharing (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
-- [Bike Sharing (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Linear baseline with OLS, Ridge, Lasso under rolling-origin CV and full residual diagnostics.
+- [Bike Sharing Demand Forecasting (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
+- [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Linear baseline with OLS, Ridge, Lasso under rolling-origin CV and full residual diagnostics.
 
 **Predictive Modeling**
 - [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Telecom churn classifier on 500K+ records, including a train/test distributional inconsistency diagnosis.
