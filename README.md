@@ -2,7 +2,7 @@
 
 Master of Data Science student at UC Irvine (graduating December 2026), actively seeking data science internships and new grad roles (available early 2027)
 
-I focus on **statistical modeling, A/B testing, and causal inference**, working primarily in R and Python. Recent work has expanded into cloud data engineering on AWS, building end-to-end pipelines so my analysis isn't bottlenecked by data availability.  What I care about most is turning analysis into decisions someone can act on.
+I focus on **statistical modeling, A/B testing, and Bayesian inference**, working primarily in R and Python. Recent work has expanded into cloud data engineering on AWS, building end-to-end pipelines so my analysis isn't bottlenecked by data availability.  What I care about most is turning analysis into decisions someone can act on.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GgPjJEpnKY-LdWw60K4LBZ7-ie7LjV8o/view?usp=sharing)
