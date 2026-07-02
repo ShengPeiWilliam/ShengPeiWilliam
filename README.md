@@ -21,6 +21,7 @@ I focus on **statistical modeling, A/B testing, and Bayesian inference**, workin
 - [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Linear baseline with OLS, Ridge, Lasso under rolling-origin CV and full residual diagnostics.
 
 **Predictive Modeling**
+- [Energy Consumption Forecasting (XGBoost)](https://github.com/ShengPeiWilliam/energy-consumption-forecasting) — Power consumption forecasting across three zones of Tetouan, Morocco. XGBoost reduces MAPE from 21-27% to under 1%. Forecasting horizon and sampling frequency analysis quantify the deployment tradeoffs.
 - [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Telecom churn classifier on 500K+ records, including a train/test distributional inconsistency diagnosis.
 - [StarCraft II Skill Classification](https://github.com/ShengPeiWilliam/skillcraft-ml) — Reformulated a published pairwise task into 6-class multinomial classification, outperforming the baseline in 3 of 4 league pairs.
 
