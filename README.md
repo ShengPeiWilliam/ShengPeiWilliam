@@ -13,7 +13,7 @@ I focus on **statistical modeling, A/B testing, and Bayesian inference**, workin
 ### 🛠️ Projects
 
 **Statistical Modeling & Experimentation**
-- [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity) — CART-based synthesis (`synthpop`) on MIMIC-IV (n=70,954 ICU stays), testing the finding above against a different generator: positive count, not sample size, decides whether a rare subgroup survives synthesis.
+- [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity) — CART-based synthesis (synthpop) on MIMIC-IV (n=70,954 ICU stays), testing the finding above against a different generator: positive count, not sample size, decides whether a rare subgroup can be estimated at all — but the generator attenuates it either way.
 - [Bayesian Prior Sensitivity](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering. Deployed as an interactive Streamlit app on AWS EC2 with a Plumber API backend.
 - [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
 - [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
