@@ -4,7 +4,7 @@ Master of Data Science student at UC Irvine (graduating December 2026), actively
 
 I focus on **statistical modeling, A/B testing, and Bayesian inference**, working primarily in R and Python. Recent work has expanded into cloud data engineering on AWS, building end-to-end pipelines so my analysis isn't bottlenecked by data availability.
 
-I'm most drawn to problems where a decision has to be made under uncertainty and then proven, like pricing and incentives in a marketplace. To see one from the inside, I spent two months dashing for DoorDash and built [Rearview](https://github.com/ShengPeiWilliam/rearview) from my own data.
+I'm most drawn to problems where a decision has to be made under uncertainty and then proven, like pricing and incentives in a marketplace. To see one from the inside, I spent two months dashing for DoorDash and built [Rearview](https://github.com/ShengPeiWilliam/minutes-per-order) from my own data.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GgPjJEpnKY-LdWw60K4LBZ7-ie7LjV8o/view?usp=sharing)
@@ -15,7 +15,7 @@ I'm most drawn to problems where a decision has to be made under uncertainty and
 ### 🛠️ Projects
 
 **Marketplace Analytics**
-- [Rearview](https://github.com/ShengPeiWilliam/rearview) ([live](https://your-link-here)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking two orders from one store saves the dasher time but costs the second customer eight minutes.
+- [Rearview](https://github.com/ShengPeiWilliam/minutes-per-order) ([live](https://rearview-five.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking two orders from one store saves the dasher time but costs the second customer eight minutes.
 
 **Statistical Modeling & Experimentation**
 - [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity) — CART-based synthesis (synthpop) on MIMIC-IV (n=70,954 ICU stays), the same question against a different generator: count, not sample size, decides what's estimable. The generator attenuates the interaction regardless.
