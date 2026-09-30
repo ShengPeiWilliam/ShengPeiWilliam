@@ -15,7 +15,7 @@ I'm most drawn to problems where a decision has to be made under uncertainty and
 ### 🛠️ Projects
 
 **Marketplace Analytics**
-- [Rearview](https://github.com/ShengPeiWilliam/minutes-per-order) ([live](https://rearview-dasher.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking two orders from one store saves the dasher time but costs the second customer eight minutes.
+- [Rearview](https://github.com/ShengPeiWilliam/minutes-per-order) ([live](https://rearview-driver.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking two orders from one store saves the dasher time but costs the second customer eight minutes.
 
 **Statistical Modeling & Experimentation**
 - [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity) — CART-based synthesis (synthpop) on MIMIC-IV (n=70,954 ICU stays), the same question against a different generator: count, not sample size, decides what's estimable. The generator attenuates the interaction regardless.
