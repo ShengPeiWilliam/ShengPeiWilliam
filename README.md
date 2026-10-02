@@ -1,10 +1,10 @@
 # Hi, I'm William
 
-Master of Data Science student at UC Irvine (graduating December 2026), actively seeking new grad Data Scientist and Analytics roles (available early 2027). U.S. citizen based in Irvine, CA, authorized to work without sponsorship and willing to relocate.
+Master of Data Science student at UC Irvine, graduating December 2026 and seeking new grad Data Scientist roles. U.S. citizen in Irvine, CA, no sponsorship needed, open to relocating.
 
-I focus on **statistical modeling, A/B testing, and Bayesian inference**, working primarily in R and Python. Recent work has expanded into cloud data engineering on AWS, building end-to-end pipelines so my analysis isn't bottlenecked by data availability.
+I'm drawn to marketplace problems: pricing, incentives, and balancing supply and demand. I want to decide where a lever should go, and prove that it moved. To see a marketplace from the inside, I delivered for DoorDash and built [Rearview](https://github.com/ShengPeiWilliam/rearview), a dashboard that turns a driver's delivery export into answers about their own work.
 
-I'm most drawn to problems where a decision has to be made under uncertainty and then proven, like pricing and incentives in a marketplace. To see one from the inside, I spent two months dashing for DoorDash and built [Rearview](https://github.com/ShengPeiWilliam/rearview) from my own data.
+I work in R and Python, focused on **statistical modeling, A/B testing, and Bayesian inference**. I also build end-to-end pipelines on AWS, so my analysis isn't bottlenecked by data availability.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GgPjJEpnKY-LdWw60K4LBZ7-ie7LjV8o/view?usp=sharing)
