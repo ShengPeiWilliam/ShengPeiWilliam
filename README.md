@@ -15,28 +15,28 @@ I work in R and Python, focused on **statistical modeling, A/B testing, and Baye
 ### 🛠️ Projects
 
 **Marketplace Analytics**
-- [Rearview](https://github.com/ShengPeiWilliam/rearview) ([live](https://rearview-driver.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking two orders from one store saves the dasher time but costs the second customer eight minutes.
+- [Rearview](https://github.com/ShengPeiWilliam/rearview) ([live](https://rearview-driver.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking saves the dasher 1.6 minutes per order, but a same-store stack costs the second customer eight.
+- [Citi Bike Demand by Rider Type (BSTS)](https://github.com/ShengPeiWilliam/citibike-aws-pipeline): Bayesian structural time series on 1,065 days of trips. Members and casual riders respond to temperature alike, but working days split them by nearly 1,000 rides a day. Built on a self-constructed AWS data pipeline.
 
 **Statistical Modeling & Experimentation**
-- [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity) — CART-based synthesis (synthpop) on MIMIC-IV (n=70,954 ICU stays), the same question against a different generator: count, not sample size, decides what's estimable. The generator attenuates the interaction regardless.
-- [Bayesian Prior Sensitivity](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity) — Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering. Deployed as an interactive Streamlit app on AWS EC2 with a Plumber API backend.
-- [Marketing A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing) — Bayesian and Frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
-- [Cookie Cats A/B Testing](https://github.com/ShengPeiWilliam/bayesian-ab-testing) — Mobile game retention experiment showing why 1-day and 7-day metrics tell different stories about gate placement.
-- [Bike Sharing Demand Forecasting (BSTS)](https://github.com/ShengPeiWilliam/citibike-aws-pipeline) — Bayesian structural time series quantifying how member and casual riders respond differently to weather, built on a self-constructed AWS data pipeline.
-- [Bike Sharing Demand Forecasting (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson) — Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
-- [Bike Sharing Demand Forecasting (OLS)](https://github.com/ShengPeiWilliam/bikerental-ml) — Linear baseline with OLS, Ridge, Lasso under rolling-origin CV and full residual diagnostics.
+- [Marketing Campaign A/B Testing](https://github.com/ShengPeiWilliam/marketing-ab-testing): Bayesian and frequentist analysis on 588K users, exposing the gap between statistical significance and practical effect.
+- [Synthetic Data Fidelity in Rare Strata](https://github.com/ShengPeiWilliam/mimic-synthetic-fidelity): CART-based synthesis (synthpop) on MIMIC-IV (n=70,954 ICU stays). Count, not sample size, decides what's estimable, and the generator attenuates the interaction regardless.
+- [Bayesian Prior Sensitivity](https://github.com/ShengPeiWilliam/bayesian-prior-sensitivity): Prior sensitivity in Bayesian logistic regression on `birthwt` (n=189), showing that rare predictors, not small n, determine when the prior stops mattering. Built as a Streamlit app on AWS EC2 with a Plumber API backend.
+- [Cookie Cats Retention Experiment](https://github.com/ShengPeiWilliam/bayesian-ab-testing): Mobile game experiment on 90K players, showing why 1-day and 7-day retention tell different stories about gate placement.
+- [Bike Rental Count Regression (Poisson / NB GLM)](https://github.com/ShengPeiWilliam/bikerental-poisson): Count regression diagnosing severe overdispersion (variance/mean = 833) and resolving it with Negative Binomial.
+- [Bike Rental Regression Baseline (OLS, Ridge, Lasso)](https://github.com/ShengPeiWilliam/bikerental-ml): Linear baseline under rolling-origin CV with full residual diagnostics.
 
 **Predictive Modeling**
-- [Energy Consumption Forecasting (XGBoost)](https://github.com/ShengPeiWilliam/energy-consumption-forecasting) — Power consumption forecasting across three zones of Tetouan, Morocco. XGBoost reduces MAPE from 21-27% to under 1%. Forecasting horizon and sampling frequency analysis quantify the deployment tradeoffs.
-- [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml) — Telecom churn classifier on 500K+ records, including a train/test distributional inconsistency diagnosis.
-- [StarCraft II Skill Classification](https://github.com/ShengPeiWilliam/skillcraft-ml) — Reformulated a published pairwise task into 6-class multinomial classification, outperforming the baseline in 3 of 4 league pairs.
+- [Energy Demand Forecasting](https://github.com/ShengPeiWilliam/energy-consumption-forecasting): Power demand across three zones of Tetouan, Morocco. XGBoost cuts MAPE from 21 to 27% (ARIMA) to 1 to 3% at 10 minutes ahead. Horizon and sampling frequency analysis quantify the deployment trade-offs.
+- [Customer Churn Prediction](https://github.com/ShengPeiWilliam/telecom-churn-ml): Telecom churn classifier on 500K+ records, including a train/test distributional inconsistency diagnosis.
+- [StarCraft II Skill Classification](https://github.com/ShengPeiWilliam/skillcraft-ml): Reformulated a published pairwise task into 6-class multinomial classification, outperforming the baseline in 3 of 4 league pairs.
 
 **Recommendation & Retrieval**
-- [Two-Tower Retrieval](https://github.com/ShengPeiWilliam/movierec-two-towers) — Two-tower neural retrieval on 100K implicit feedback interactions, indexed in ChromaDB.
-- [UCI Dataset Assistant (RAG)](https://github.com/ShengPeiWilliam/askuci) — Publicly deployed RAG chatbot indexing 689 UCI ML Repository datasets.
+- [Two-Tower Retrieval](https://github.com/ShengPeiWilliam/movierec-two-towers): Two-tower neural retrieval on 100K implicit feedback interactions, indexed in ChromaDB.
+- [UCI Dataset Assistant (RAG)](https://github.com/ShengPeiWilliam/askuci): Publicly deployed RAG chatbot indexing 689 UCI ML Repository datasets.
 
 **Developer Tools**
-- [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator) — CLI that turns Git commits into structured PR descriptions, built on an agent skill framework.
+- [PR Description Generator](https://github.com/ShengPeiWilliam/git-pr-generator): CLI that turns Git commits into structured PR descriptions, built on an agent skill framework.
 
 ---
 ### 💼 Experience
