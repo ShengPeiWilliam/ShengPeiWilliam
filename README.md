@@ -40,10 +40,9 @@ I work in R and Python, focused on **statistical modeling, A/B testing, and Baye
 
 ---
 ### Experience
-
 **Data Science Capstone Researcher**, University of California, Irvine (Sept. 2026 to Present)
-- Characterizing how Ethereum DApps grow and decline over time using on-chain activity data, on a six-person graduate team.
-- Building supervised models to test whether early on-chain activity predicts which DApps become popular.
+- Showed that DApp sizes follow a log-normal rather than a power law, as measured by bootstrap fit tests rejecting the power law in all 6 years, by fitting both models with MLE and Vuong tests on yearly data from 605 protocols.
+- Quantified the adoption gap between successful and other DApps, as measured by 66% vs. 5% reaching 10K wallets within 6 months, by applying survival analysis (Kaplan-Meier, log-rank, Cox) to 486 DApps with 356 censored.
 
 **Project Engineer (Data Science Focus)**, SHINSOFT CO., LTD. (Aug. 2024 to Feb. 2025)
 - Diagnosed model underperformance on 200K+ camera images using EfficientNet embeddings with PCA and t-SNE; found an indoor vs. outdoor distribution gap and fine-tuned a dedicated indoor model, lifting accuracy by 15%.
