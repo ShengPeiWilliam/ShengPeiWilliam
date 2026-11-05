@@ -16,6 +16,7 @@ I work in R and Python, focused on **statistical modeling, A/B testing, and Baye
 
 **Marketplace Analytics**
 - [Rearview](https://github.com/ShengPeiWilliam/rearview) ([live](https://rearview-driver.vercel.app/)): A dashboard for DoorDash dashers, built from their own delivery export. From two months of my own dashing: stacking saves the dasher 1.6 minutes per order, but a same-store stack costs the second customer eight.
+- [Rearview Notes](https://github.com/ShengPeiWilliam/rearview-notes) ([live](https://shengpeiwilliam.github.io/rearview-notes/posts/03-can-kaplan-meier-help/)): One driving hunch per post, each checked against one driver's data with one statistical idea. The latest: the 15-minute median wait I'd logged misses the ones I gave up on, and survival analysis lifts the honest figure to 19.
 - [Citi Bike Demand by Rider Type (BSTS)](https://github.com/ShengPeiWilliam/citibike-aws-pipeline): Bayesian structural time series on 1,065 days of trips. Members and casual riders respond to temperature alike, but working days split them by 1,000 rides.
 
 **Statistical Modeling & Experimentation**
