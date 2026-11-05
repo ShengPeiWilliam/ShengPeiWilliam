@@ -41,9 +41,11 @@ I work in R and Python, focused on **statistical modeling, A/B testing, and Baye
 
 ---
 ### Experience
-**Data Science Capstone Researcher**, University of California, Irvine (Sept. 2026 to Present)
+**Data Science Capstone Researcher**, University of California, Irvine ([GitHub](https://github.com/anishwac0311/Ethereum-Dapp-Trend-Analysis-and-Prediction)) (Sept. 2026 to Present)
+- Built an off-chain feature dataset for 512 DApps, covering audit, open-source, contract verification and governance, by collecting data from the DefiLlama, GitHub, Blockscout, Sourcify and Snapshot APIs; dated governance counts to each observation window to avoid look-ahead leakage.
 - Showed that DApp sizes follow a log-normal rather than a power law, as measured by bootstrap fit tests rejecting the power law in all 6 years, by fitting both models with MLE and Vuong tests on yearly data from 605 protocols.
 - Quantified the adoption gap between successful and other DApps, as measured by 66% vs. 5% reaching 10K wallets within 6 months, by applying survival analysis (Kaplan-Meier, log-rank, Cox) to 486 DApps with 356 censored.
+- Found a look-ahead leak in the team's train/test split and showed the model's score was not inflated (AP 0.605 vs. 0.615 after the fix), by embargoing training labels and re-testing the model at two market events (Terra collapse, Dencun upgrade).
 
 **Project Engineer (Data Science Focus)**, SHINSOFT CO., LTD. (Aug. 2024 to Feb. 2025)
 - Diagnosed model underperformance on 200K+ camera images using EfficientNet embeddings with PCA and t-SNE; found an indoor vs. outdoor distribution gap and fine-tuned a dedicated indoor model, lifting accuracy by 15%.
