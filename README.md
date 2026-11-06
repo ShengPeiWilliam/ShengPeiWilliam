@@ -4,7 +4,7 @@ Master of Data Science student at UC Irvine, graduating December 2026 and seekin
 
 I'm drawn to marketplace problems: pricing, incentives, and balancing supply and demand. I want to decide where a lever should go, and prove that it moved. To see a marketplace from the inside, I delivered for DoorDash and built [Rearview](https://rearview-driver.vercel.app/), a dashboard that turns a driver's delivery export into answers about their own work.
 
-My capstone applies the same lens to Ethereum DApps: modeling time to adoption for 486 DApps, and showing how the drivers of success shift across market periods.
+For my capstone, I model time to adoption for 486 Ethereum DApps and show how the factors behind success shift across market periods.
 
 I work in R and Python, focused on **statistical modeling, A/B testing, Bayesian inference, and survival analysis**. I also build end-to-end pipelines on AWS, so my analysis isn't bottlenecked by data availability.
 
@@ -45,7 +45,7 @@ I work in R and Python, focused on **statistical modeling, A/B testing, Bayesian
 ### Experience
 **Data Science Capstone Researcher**, University of California, Irvine (Sept. 2026 to Present)
 [Ethereum-Dapp-Trend-Analysis-and-Prediction](https://github.com/anishwac0311/Ethereum-Dapp-Trend-Analysis-and-Prediction)
-- Showed engagement replaced early size as the top success driver after the Terra collapse, as measured by size's weight share falling from 33% to 19% as engagement's rose from 17% to 33%, by fitting standardized logistic regressions per market period with 1,000 bootstrap resamples.
+- Showed engagement replaced early size as the top success factor after the Terra collapse, as measured by size's weight share falling from 33% to 19% as engagement's rose from 17% to 33%, by fitting standardized logistic regressions per market period with 1,000 bootstrap resamples.
 - Quantified the adoption gap between successful DApps and the rest, as measured by 66% vs. 5% reaching 10K wallets within 6 months, by applying survival analysis (Kaplan-Meier, log-rank, Cox) to 486 DApps with 356 censored.
 - Found a look-ahead leak in the team's train/test split and showed the model's score was not inflated (AP 0.605 vs. 0.615 after the fix), by embargoing training labels and re-testing the model at two market events (Terra collapse, Dencun upgrade).
 - Built an off-chain feature dataset for 512 DApps, covering audit, open-source, contract verification and governance, by collecting data from the DefiLlama, GitHub, Blockscout, Sourcify and Snapshot APIs; dated governance counts to each observation window to avoid look-ahead leakage.
