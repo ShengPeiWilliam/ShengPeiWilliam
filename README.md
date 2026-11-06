@@ -4,7 +4,9 @@ Master of Data Science student at UC Irvine, graduating December 2026 and seekin
 
 I'm drawn to marketplace problems: pricing, incentives, and balancing supply and demand. I want to decide where a lever should go, and prove that it moved. To see a marketplace from the inside, I delivered for DoorDash and built [Rearview](https://rearview-driver.vercel.app/), a dashboard that turns a driver's delivery export into answers about their own work.
 
-I work in R and Python, focused on **statistical modeling, A/B testing, and Bayesian inference**. I also build end-to-end pipelines on AWS, so my analysis isn't bottlenecked by data availability.
+My capstone applies the same lens to Ethereum DApps: modeling time to adoption for 486 DApps, and showing how the drivers of success shift across market periods.
+
+I work in R and Python, focused on **statistical modeling, A/B testing, Bayesian inference, and survival analysis**. I also build end-to-end pipelines on AWS, so my analysis isn't bottlenecked by data availability.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F5C4D?style=for-the-badge&logo=vercel&logoColor=white)](https://william-chen.vercel.app/)
 [![Rearview](https://img.shields.io/badge/Rearview-1A1A1A?style=for-the-badge)](https://rearview-driver.vercel.app/)
@@ -43,10 +45,10 @@ I work in R and Python, focused on **statistical modeling, A/B testing, and Baye
 ### Experience
 **Data Science Capstone Researcher**, University of California, Irvine (Sept. 2026 to Present)
 [Ethereum-Dapp-Trend-Analysis-and-Prediction](https://github.com/anishwac0311/Ethereum-Dapp-Trend-Analysis-and-Prediction)
-- Built an off-chain feature dataset for 512 DApps, covering audit, open-source, contract verification and governance, by collecting data from the DefiLlama, GitHub, Blockscout, Sourcify and Snapshot APIs; dated governance counts to each observation window to avoid look-ahead leakage.
-- Showed that DApp sizes follow a log-normal rather than a power law, as measured by bootstrap fit tests rejecting the power law in all 6 years, by fitting both models with MLE and Vuong tests on yearly data from 605 protocols.
-- Quantified the adoption gap between successful and other DApps, as measured by 66% vs. 5% reaching 10K wallets within 6 months, by applying survival analysis (Kaplan-Meier, log-rank, Cox) to 486 DApps with 356 censored.
+- Showed engagement replaced early size as the top success driver after the Terra collapse, as measured by size's weight share falling from 33% to 19% as engagement's rose from 17% to 33%, by fitting standardized logistic regressions per market period with 1,000 bootstrap resamples.
+- Quantified the adoption gap between successful DApps and the rest, as measured by 66% vs. 5% reaching 10K wallets within 6 months, by applying survival analysis (Kaplan-Meier, log-rank, Cox) to 486 DApps with 356 censored.
 - Found a look-ahead leak in the team's train/test split and showed the model's score was not inflated (AP 0.605 vs. 0.615 after the fix), by embargoing training labels and re-testing the model at two market events (Terra collapse, Dencun upgrade).
+- Built an off-chain feature dataset for 512 DApps, covering audit, open-source, contract verification and governance, by collecting data from the DefiLlama, GitHub, Blockscout, Sourcify and Snapshot APIs; dated governance counts to each observation window to avoid look-ahead leakage.
 
 **Project Engineer (Data Science Focus)**, SHINSOFT CO., LTD. (Aug. 2024 to Feb. 2025)
 - Diagnosed model underperformance on 200K+ camera images using EfficientNet embeddings with PCA and t-SNE; found an indoor vs. outdoor distribution gap and fine-tuned a dedicated indoor model, lifting accuracy by 15%.
